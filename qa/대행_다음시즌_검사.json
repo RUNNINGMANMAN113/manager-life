@@ -1,0 +1,119 @@
+{
+  "takeover": {
+    "scene": "hq",
+    "interim": true,
+    "team": "SS",
+    "week": 6,
+    "played": 180,
+    "standings": {
+      "id": "SS",
+      "w": 20,
+      "l": 16,
+      "t": 0,
+      "rf": 149,
+      "ra": 141,
+      "home": 18,
+      "away": 18
+    },
+    "farmPhase": "suspended",
+    "job": "manager",
+    "originalId": "QA204/FARM"
+  },
+  "review": {
+    "phase": "finished",
+    "review": {
+      "year": 2046,
+      "clubId": "SS",
+      "score": 65,
+      "level": "interview",
+      "played": {
+        "w": 63,
+        "l": 41,
+        "t": 4,
+        "played": 108
+      },
+      "starting": {
+        "w": 20,
+        "l": 16,
+        "t": 0,
+        "pct": 0.5555555555555556,
+        "rank": 3,
+        "week": 6
+      },
+      "tenurePct": 0.6057692307692307,
+      "delta": 0.050213675213675146,
+      "finalRank": 2,
+      "champion": false,
+      "done": false
+    },
+    "button": 2,
+    "tab": "overview",
+    "career": "employed"
+  },
+  "next": {
+    "scene": "hq",
+    "role": "manager",
+    "year": 2047,
+    "phase": "suspended",
+    "archive": 1,
+    "history": [
+      {
+        "year": 2046,
+        "clubId": "SS",
+        "status": "reviewed",
+        "startWeek": 6,
+        "score": 65,
+        "level": "interview",
+        "played": {
+          "w": 63,
+          "l": 41,
+          "t": 4,
+          "played": 108
+        },
+        "starting": {
+          "w": 20,
+          "l": 16,
+          "t": 0,
+          "pct": 0.5555555555555556,
+          "rank": 3,
+          "week": 6
+        },
+        "tenurePct": 0.6057692307692307,
+        "delta": 0.050213675213675146,
+        "finalRank": 2,
+        "champion": false,
+        "done": false,
+        "finalDecision": "permanent",
+        "interview": {
+          "score": 70,
+          "passed": true
+        }
+      }
+    ]
+  },
+  "permanent_next_week_before": {
+    "scene": "hq",
+    "year": 2047,
+    "week": 0,
+    "phase": "regular",
+    "contract": {
+      "teamId": "SS",
+      "years": 2,
+      "salary": 2.6,
+      "goal": "2년 내 포스트시즌 진출",
+      "subgoal": "주전 유망주 2명 육성",
+      "support": 0,
+      "negotiation": "standard",
+      "fromYear": 2047,
+      "throughYear": 2048
+    },
+    "manager": "SS"
+  },
+  "permanent_next_week_after": {
+    "year": 2047,
+    "week": 1,
+    "phase": "regular",
+    "played": 30
+  },
+  "errors": []
+}

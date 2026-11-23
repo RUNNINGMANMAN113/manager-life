@@ -1,0 +1,131 @@
+[
+  {
+    "viewport": 390,
+    "initial": {
+      "w": 390,
+      "cards": [
+        {
+          "text": "2군 등록\n17명",
+          "bg": "rgb(245, 249, 255)",
+          "small": "rgb(64, 85, 109)",
+          "strong": "rgb(23, 63, 103)"
+        },
+        {
+          "text": "퓨처스 성적\n0승 0패",
+          "bg": "rgb(245, 249, 255)",
+          "small": "rgb(64, 85, 109)",
+          "strong": "rgb(23, 63, 103)"
+        },
+        {
+          "text": "시즌 성장\n0회",
+          "bg": "rgb(245, 249, 255)",
+          "small": "rgb(64, 85, 109)",
+          "strong": "rgb(23, 63, 103)"
+        },
+        {
+          "text": "콜업 승인\n0명",
+          "bg": "rgb(245, 249, 255)",
+          "small": "rgb(64, 85, 109)",
+          "strong": "rgb(23, 63, 103)"
+        }
+      ]
+    },
+    "event": {
+      "found": true,
+      "head": "주전과 유망주의 출전 경쟁",
+      "titleColor": "rgb(21, 57, 87)",
+      "bodyColor": "rgb(64, 89, 116)",
+      "bg": "rgb(247, 250, 255)",
+      "choiceColor": "rgb(255, 255, 255)",
+      "choiceBg": "rgb(22, 53, 80)",
+      "screenWidth": 390
+    },
+    "errors": []
+  },
+  {
+    "viewport": 960,
+    "initial": {
+      "w": 960,
+      "cards": [
+        {
+          "text": "2군 등록\n17명",
+          "bg": "rgb(245, 249, 255)",
+          "small": "rgb(64, 85, 109)",
+          "strong": "rgb(23, 63, 103)"
+        },
+        {
+          "text": "퓨처스 성적\n0승 0패",
+          "bg": "rgb(245, 249, 255)",
+          "small": "rgb(64, 85, 109)",
+          "strong": "rgb(23, 63, 103)"
+        },
+        {
+          "text": "시즌 성장\n0회",
+          "bg": "rgb(245, 249, 255)",
+          "small": "rgb(64, 85, 109)",
+          "strong": "rgb(23, 63, 103)"
+        },
+        {
+          "text": "콜업 승인\n0명",
+          "bg": "rgb(245, 249, 255)",
+          "small": "rgb(64, 85, 109)",
+          "strong": "rgb(23, 63, 103)"
+        }
+      ]
+    },
+    "event": {
+      "found": true,
+      "head": "1군 콜업을 둘러싼 이견",
+      "titleColor": "rgb(21, 57, 87)",
+      "bodyColor": "rgb(64, 89, 116)",
+      "bg": "rgb(247, 250, 255)",
+      "choiceColor": "rgb(255, 255, 255)",
+      "choiceBg": "rgb(22, 53, 80)",
+      "screenWidth": 960
+    },
+    "errors": []
+  },
+  {
+    "viewport": 1280,
+    "initial": {
+      "w": 1280,
+      "cards": [
+        {
+          "text": "2군 등록\n17명",
+          "bg": "rgb(245, 249, 255)",
+          "small": "rgb(64, 85, 109)",
+          "strong": "rgb(23, 63, 103)"
+        },
+        {
+          "text": "퓨처스 성적\n0승 0패",
+          "bg": "rgb(245, 249, 255)",
+          "small": "rgb(64, 85, 109)",
+          "strong": "rgb(23, 63, 103)"
+        },
+        {
+          "text": "시즌 성장\n0회",
+          "bg": "rgb(245, 249, 255)",
+          "small": "rgb(64, 85, 109)",
+          "strong": "rgb(23, 63, 103)"
+        },
+        {
+          "text": "콜업 승인\n0명",
+          "bg": "rgb(245, 249, 255)",
+          "small": "rgb(64, 85, 109)",
+          "strong": "rgb(23, 63, 103)"
+        }
+      ]
+    },
+    "event": {
+      "found": true,
+      "head": "1군 콜업을 둘러싼 이견",
+      "titleColor": "rgb(21, 57, 87)",
+      "bodyColor": "rgb(64, 89, 116)",
+      "bg": "rgb(247, 250, 255)",
+      "choiceColor": "rgb(255, 255, 255)",
+      "choiceBg": "rgb(22, 53, 80)",
+      "screenWidth": 1280
+    },
+    "errors": []
+  }
+]

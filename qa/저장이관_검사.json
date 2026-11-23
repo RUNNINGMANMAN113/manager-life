@@ -1,0 +1,19 @@
+{
+  "result": {
+    "before": {
+      "year": 2046,
+      "week": 5,
+      "played": 150,
+      "turn": 1
+    },
+    "after": {
+      "year": 2046,
+      "week": 6,
+      "played": 180,
+      "turn": 1
+    },
+    "migrationFieldCreated": true,
+    "rosterYears": 1
+  },
+  "errors": []
+}

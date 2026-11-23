@@ -1,0 +1,222 @@
+[
+  {
+    "club": "삼성 라이온즈",
+    "year": 2046,
+    "first": 25,
+    "farm": 16,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 6
+  },
+  {
+    "club": "삼성 라이온즈",
+    "year": 2047,
+    "first": 25,
+    "farm": 17,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 13
+  },
+  {
+    "club": "한화 이글스",
+    "year": 2046,
+    "first": 25,
+    "farm": 15,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 6
+  },
+  {
+    "club": "한화 이글스",
+    "year": 2047,
+    "first": 25,
+    "farm": 16,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 13
+  },
+  {
+    "club": "롯데 자이언츠",
+    "year": 2046,
+    "first": 25,
+    "farm": 15,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 6
+  },
+  {
+    "club": "롯데 자이언츠",
+    "year": 2047,
+    "first": 25,
+    "farm": 15,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 13
+  },
+  {
+    "club": "NC 다이노스",
+    "year": 2046,
+    "first": 25,
+    "farm": 16,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 6
+  },
+  {
+    "club": "NC 다이노스",
+    "year": 2047,
+    "first": 25,
+    "farm": 16,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 13
+  },
+  {
+    "club": "LG 트윈스",
+    "year": 2046,
+    "first": 25,
+    "farm": 15,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 6
+  },
+  {
+    "club": "LG 트윈스",
+    "year": 2047,
+    "first": 25,
+    "farm": 15,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 13
+  },
+  {
+    "club": "두산 베어스",
+    "year": 2046,
+    "first": 25,
+    "farm": 15,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 6
+  },
+  {
+    "club": "두산 베어스",
+    "year": 2047,
+    "first": 25,
+    "farm": 16,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 13
+  },
+  {
+    "club": "KT 위즈",
+    "year": 2046,
+    "first": 25,
+    "farm": 16,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 6
+  },
+  {
+    "club": "KT 위즈",
+    "year": 2047,
+    "first": 25,
+    "farm": 15,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 13
+  },
+  {
+    "club": "SSG 랜더스",
+    "year": 2046,
+    "first": 25,
+    "farm": 16,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 6
+  },
+  {
+    "club": "SSG 랜더스",
+    "year": 2047,
+    "first": 25,
+    "farm": 15,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 13
+  },
+  {
+    "club": "키움 히어로즈",
+    "year": 2046,
+    "first": 25,
+    "farm": 15,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 6
+  },
+  {
+    "club": "키움 히어로즈",
+    "year": 2047,
+    "first": 25,
+    "farm": 17,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 13
+  },
+  {
+    "club": "KIA 타이거즈",
+    "year": 2046,
+    "first": 25,
+    "farm": 16,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 6
+  },
+  {
+    "club": "KIA 타이거즈",
+    "year": 2047,
+    "first": 25,
+    "farm": 15,
+    "games": 720,
+    "duplicateIds": 0,
+    "turnover": true,
+    "roster": true,
+    "moves": 13
+  }
+]
